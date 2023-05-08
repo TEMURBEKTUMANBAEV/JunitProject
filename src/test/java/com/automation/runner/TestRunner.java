@@ -10,5 +10,5 @@ import org.w3c.dom.ls.LSOutput;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({LoginTest.class, SearchFunctionalityTest.class})
 public class TestRunner {
-    
+
 }
